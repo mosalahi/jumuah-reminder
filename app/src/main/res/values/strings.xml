@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تذكير صلاة الجمعة</string>
+    <string name="notification_channel_name">Jumuah Reminder</string>
+    <string name="notification_channel_description">Notifications for Friday prayer reminders</string>
+    <string name="notification_title">تذكير صلاة الجمعة</string>
+    <string name="notification_message">حان وقت التوجه لصلاة الجمعة!</string>
+</resources>
